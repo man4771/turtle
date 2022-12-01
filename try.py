@@ -1,0 +1,10 @@
+from turtle import *
+color('blue')
+begin_fill()
+pensize(3)
+up(50)
+right(50)
+up(50)
+right(20)
+end_fill()
+exitonclick()
